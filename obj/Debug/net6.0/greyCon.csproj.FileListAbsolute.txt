@@ -1,0 +1,15 @@
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\bin\Debug\net6.0\greyCon.exe
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\bin\Debug\net6.0\greyCon.deps.json
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\bin\Debug\net6.0\greyCon.runtimeconfig.json
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\bin\Debug\net6.0\greyCon.dll
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\bin\Debug\net6.0\greyCon.pdb
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.csproj.AssemblyReference.cache
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.AssemblyInfoInputs.cache
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.AssemblyInfo.cs
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.csproj.CoreCompileInputs.cache
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.dll
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\refint\greyCon.dll
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.pdb
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\greyCon.genruntimeconfig.cache
+C:\Users\william\Documents\BootcampProjecs\c#\greyCon\obj\Debug\net6.0\ref\greyCon.dll
